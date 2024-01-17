@@ -1,8 +1,9 @@
 # the-beatles-website
-the website for the Beatles. 
+the website for the Beatles
+
+Amazon, but it's budget. 
 
 https://annimukherjee.github.io/the-beatles-website/
 
 
 
-__was followling some guidelines in a tutorial__
